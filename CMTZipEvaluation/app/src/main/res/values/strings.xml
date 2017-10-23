@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CMTZipEvaluation</string>
+    <string name="continueButtonTitle">Continue</string>
+    <string name="closeButtonTitle">Close</string>
+    <string name="enterZipCodeTitle">Enter Your Zip Code</string>
+    <string name="zipCodeInstructions">To determine your eligibility to participate in the Connecticut and Massachusetts Safe Driver program, please enter your zip code below:</string>
+    <string name="zipCodeName">Zip code</string>
+    <string name="zipCodeHint">e.g.; 01089</string>
+    <string name="unavailableInRegion">Unfortunately, this application is not currently available in your region.</string>
+    <string name="availableInRegion">Congratulations! You are eligible to use the Connecticut and Massachusetts Safe Driver program.</string>
+    <string name="title_activity_zip_detail">ZipDetailActivity</string>
+</resources>
